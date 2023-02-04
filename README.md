@@ -5,6 +5,8 @@ App Description
 This is a single iOS app page where a student can introduce themselves.
 
 App Walk-though
+![introStudentDemo](https://user-images.githubusercontent.com/94202005/216788623-49e7dc4f-af83-4f1d-a729-ce6efe1db86d.gif)
+
 
 https://github.com/kim53yn/codepath-prework/blob/main/introStudentDemo.gif
 
