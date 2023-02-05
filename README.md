@@ -1,4 +1,5 @@
-# codepath-prework
+# codepath-IOS102 prework - Spring 2023
+
 Introduce Self iOS App
 
 	App Description
@@ -6,10 +7,7 @@ This is a single iOS app page where a student can introduce themselves.
 
 	App Walk-though
 
-	![introStudentDemo](https://user-images.githubusercontent.com/94202005/216826220-5f0b62f9-6718-4b0c-b1f5-a87a978bcf97.gif)
-
-
-
+![introStudentDemo](https://user-images.githubusercontent.com/94202005/216826381-bb3883a3-cfa5-48c8-ae0e-77a495f1a23f.gif)
 
 
 
