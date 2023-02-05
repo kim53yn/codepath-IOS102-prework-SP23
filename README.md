@@ -6,7 +6,10 @@ This is a single iOS app page where a student can introduce themselves.
 
 	App Walk-though
 
-![introStudentDemo](https://user-images.githubusercontent.com/94202005/216788623-49e7dc4f-af83-4f1d-a729-ce6efe1db86d.gif)
+	![introStudentDemo](https://user-images.githubusercontent.com/94202005/216826220-5f0b62f9-6718-4b0c-b1f5-a87a978bcf97.gif)
+
+
+
 
 
 
